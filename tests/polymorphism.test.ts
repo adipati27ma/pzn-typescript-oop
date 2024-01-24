@@ -45,7 +45,7 @@ describe('Polymorphism', () => {
   });
 
   it('should support method parameter polymorphism', () => {
-    sayHello(new Employee('Eko'));
+    sayHello(new Employee('Adip'));
     sayHello(new Manager('Budi'));
     sayHello(new VicePresident('Joko'));
   });

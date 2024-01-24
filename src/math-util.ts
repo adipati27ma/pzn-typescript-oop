@@ -10,6 +10,6 @@ export namespace MathUtil {
   }
 }
 
-export namespace Eko {}
+export namespace Adip {}
 
-export namespace Kurniawan {}
+export namespace Parti {}
